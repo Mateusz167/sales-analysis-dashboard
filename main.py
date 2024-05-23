@@ -84,7 +84,7 @@ customer_grouped = data_to_use.groupby(["CompanyName"]).agg({
     'OrderID': 'count',  # Number of orders
     'TotalPrice': 'sum',  # Total sales
     'Quantity': 'sum'     # Total quantity sold
-})
+}).reset_index()
 
 # Saving grouped data into csv files
 time_grouped.to_csv("time_analysis.csv", index=False)
