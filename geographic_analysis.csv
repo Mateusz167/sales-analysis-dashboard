@@ -1,0 +1,70 @@
+Country,City,OrderID,TotalPrice,Quantity
+Argentina,Buenos Aires,34,8119.1,339.0
+Austria,Graz,102,113236.68,4543.0
+Austria,Salzburg,23,26259.95,624.0
+Belgium,Bruxelles,17,10430.58,320.0
+Belgium,Charleroi,39,24704.4,1072.0
+Brazil,Campinas,19,8702.23,315.0
+Brazil,Resende,19,6480.7,267.0
+Brazil,Rio De Janeiro,83,53999.18,1893.0
+Brazil,Sao Paulo,82,45786.37,1772.0
+Canada,Montréal,32,32203.9,966.0
+Canada,Tsawassen,35,22607.7,956.0
+Canada,Vancouver,8,522.5,62.0
+Denmark,Arhus,31,16643.8,792.0
+Denmark,Kobenhavn,15,18138.45,378.0
+Finland,Helsinki,17,3161.35,148.0
+Finland,Oulu,37,16617.1,737.0
+France,Lille,16,11666.9,354.0
+France,Lyon,25,9937.1,434.0
+France,Marseille,44,23850.95,980.0
+France,Nantes,15,4788.0599999999995,149.0
+France,Paris,6,2423.35,48.0
+France,Reims,10,1480.0,98.0
+France,Strasbourg,26,19088.0,666.0
+France,Toulouse,31,10272.35,442.0
+France,Versailles,11,1992.05,83.0
+Germany,Aachen,10,3763.21,160.0
+Germany,Berlin,12,4596.2,174.0
+Germany,Brandenburg,39,31745.75,903.0
+Germany,Cunewalde,86,117483.39,3961.0
+Germany,Frankfurt A.M.,39,21282.02,794.0
+Germany,Köln,29,13157.5,639.0
+Germany,Leipzig,11,5042.2,172.0
+Germany,Mannheim,14,3239.8,140.0
+Germany,München,48,28722.71,1525.0
+Germany,Münster,14,4954.0,253.0
+Germany,Stuttgart,26,10653.85,492.0
+Ireland,Cork,55,57317.39,1684.0
+Italy,Bergamo,21,7603.85,433.0
+Italy,Reggio Emilia,22,7555.6,335.0
+Italy,Torino,10,1545.7,54.0
+Mexico,México D.F.,72,24073.45,1025.0
+Norway,Stavern,16,5735.150000000001,161.0
+Poland,Warszawa,16,3531.95,205.0
+Portugal,Lisboa,30,12468.65,533.0
+Spain,Barcelona,8,836.7,42.0
+Spain,Madrid,20,6765.09,281.0
+Spain,Sevilla,26,11830.1,395.0
+Sweden,Bräcke,45,32555.55,1234.0
+Sweden,Lulea,52,26968.15,1001.0
+Switzerland,Bern,22,12886.3,465.0
+Switzerland,Geneve,30,20033.2,810.0
+Uk,Cowes,23,6146.3,295.0
+Uk,London,112,54470.21,2447.0
+Usa,Albuquerque,71,52245.9,1383.0
+Usa,Anchorage,24,16325.15,603.0
+Usa,Boise,116,115673.39,4958.0
+Usa,Butte,8,1947.24,59.0
+Usa,Elgin,9,3063.2,122.0
+Usa,Eugene,22,19711.13,345.0
+Usa,Kirkland,9,1571.2,89.0
+Usa,Lander,20,12489.7,327.0
+Usa,Portland,21,7619.6,180.0
+Usa,San Francisco,10,3490.02,181.0
+Usa,Seattle,40,29073.45,1063.0
+Usa,Walla Walla,2,357.0,20.0
+Venezuela,Barquisimeto,34,17825.06,836.0
+Venezuela,Caracas,4,1488.7,34.0
+Venezuela,I. De Margarita,35,17889.55,970.0
+Venezuela,San Cristóbal,45,23611.58,1096.0
