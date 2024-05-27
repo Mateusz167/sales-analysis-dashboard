@@ -1,18 +1,18 @@
-Introduction to Sales Analysis Task
+## Introduction to Sales Analysis Task
 Project Context
 In this hypothetical project, I am tasked with analyzing sales data for our company as part of my responsibilities. My supervisor has asked for a comprehensive data analysis to provide valuable insights that can support leadership decisions.
 
-Key Objectives
+## Key Objectives
 The primary objectives of this analysis are:
 •	Sales Performance Evaluation: Assess overall sales performance across different regions and time periods.
 •	Customer Behavior Analysis: Understand customer purchasing patterns and preferences.
 •	Product Trend Identification: Identify trends in product sales to inform inventory and marketing strategies.
-Tools
+## Tools
 To achieve these objectives, I will use the following tools:
 •	SQL: Extract data from the database.
 •	Python: Clean and preprocess the data if necessary, using Google Colaboratory for coding and data manipulation.
 •	BI Tool: Create a dashboard that provides a concise summary of the analysis for my supervisor.
-Dataset
+## Dataset
 To achieve this hypothetical goal, I will use data from the Northwind database. I loaded the database from the following GitHub repository: Northwind Database on GitHub.
 Steps
 •	Database Setup: Imported the Northwind database into Microsoft SQL Server Management Studio (SSMS).
@@ -22,7 +22,7 @@ Steps
 
 
 
-Expected Outcomes
+## Expected Outcomes
 By the end of this analysis, I aim to:
 
 •	Provide a clear evaluation of sales performance, highlighting strengths and areas for improvement.
